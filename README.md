@@ -50,4 +50,5 @@ What skills from this project will be particularly transferable to other project
 See a sensor on the board change the output in ther terminal, alongside the LED changing was an exciting thing. It was interesting to see all of these moving parts come together and work as intended. While working on this project, I began to understand more and more how you code peripherals to work together, particularly combining button presses with custom variables, and all of these working with the temperature sensor.
 
 How did you make this project maintainable, readable, and adaptable?
+
 The code in this project is clean and easy to follow. I added a lot fo comments to explain lines of code, variables, functionality, etc., and kept it all logically put together. The while loop shows how each check of the timer works, and is easy to alter or build upon. It wouldn't take much work to add more tasks, alter times, adjust default values, etc.
